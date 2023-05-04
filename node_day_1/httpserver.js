@@ -1,7 +1,7 @@
-const http=require('http');
+const https=require('https');
 const path=require('path')
 const fs=require('fs')
-const server=http.createServer((req,res)=>{
+const server=https.createServer((req,res)=>{
     //console.log(req)
     if(req.url==='/'){
     res.writeHead(200,{'CONTENT-TYPE':'text/html'})
