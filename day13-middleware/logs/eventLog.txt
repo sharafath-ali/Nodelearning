@@ -6,4 +6,8 @@
  2023 09 03	 20 : 49: 13	 e13d7244-1f41-463d-8030-149a1c98bb58	 GET 	 undefined 	 /css/style.css
  2023 09 03	 20 : 49: 13	 bd3e1d42-fad5-478c-aa3e-139f9b4a938c	 GET 	 undefined 	 /index
  2023 09 03	 20 : 49: 13	 19d6134e-e28a-4d72-8f70-a4eab19e8d35	 GET 	 undefined 	 /css/style.css
+ 2023 09 03	 21 : 46: 15	 6e520889-3177-4677-bce5-c06f51c2b0f4	 GET 	 undefined 	 /index
+ 2023 09 03	 21 : 46: 15	 e4ed615d-e3f3-41ec-8014-c8fd79d92af0	 GET 	 undefined 	 /css/style.css
+ 2023 09 03	 21 : 47: 04	 638462f4-9992-4137-9cf1-d0ebf18fdad2	 GET 	 undefined 	 /index
+ 2023 09 03	 21 : 47: 04	 6972a244-10f1-4371-ab08-af5c3810dca6	 GET 	 undefined 	 /css/style.css
  
