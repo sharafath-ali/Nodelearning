@@ -7,14 +7,25 @@ const cors=require('cors')
 //middleware is anything between req and res
 // middleware = buildin, custom , middleware from thirdparties
 //custom  middleware logger
+
 app.use(logger)
+
+const whitelist=['https://www.google.com','http://localhost:3500']
+const corsOptions={
+   origin:(origin,callback) =>{
+      if(whitelist.indexOf(origin)!==-1){
+          callback(null,true)
+      }else{
+         callback(new Error('Not allowed by cors'))
+      }
+   },
+   optionsSuccessStatus:200
+}
+app.use(cors(corsOptions))
 //buildin middleware
 app.use(express.urlencoded({extended:false}))
 app.use(express.json())
 app.use(express.static(path.join(__dirname,'/public')))
-
-
-app.use(cors())
 
 app.get("^/$|index(.html)?", (req, res) => {
    res.sendFile(path.join(__dirname, "views", "index.html"));

@@ -10,4 +10,30 @@
  2023 09 03	 21 : 46: 15	 e4ed615d-e3f3-41ec-8014-c8fd79d92af0	 GET 	 undefined 	 /css/style.css
  2023 09 03	 21 : 47: 04	 638462f4-9992-4137-9cf1-d0ebf18fdad2	 GET 	 undefined 	 /index
  2023 09 03	 21 : 47: 04	 6972a244-10f1-4371-ab08-af5c3810dca6	 GET 	 undefined 	 /css/style.css
+ 2023 09 07	 18 : 14: 25	 e45eba74-aa0f-4ef5-8e39-a98b14c9f9ef	 GET 	 undefined 	 /
+ 2023 09 07	 18 : 14: 25	 3cfdd641-7bbf-4745-a7e5-d257981a4904	 GET 	 undefined 	 /css/style.css
+ 2023 09 07	 18 : 14: 25	 2e0e4435-16a7-434d-bbfc-df8247f68d3a	 GET 	 undefined 	 /favicon.ico
+ 2023 09 07	 18 : 15: 31	 442adce1-b7ef-47ed-8ff9-28ad543cefd1	 GET 	 undefined 	 /
+ 2023 09 07	 18 : 15: 31	 5e0e74a2-fd5d-460a-b789-13f72d0b0999	 GET 	 undefined 	 /css/style.css
+ 2023 09 07	 18 : 15: 31	 d5ccedc6-f438-4e9f-b202-255a5a0a2915	 GET 	 undefined 	 /favicon.ico
+ 2023 09 07	 18 : 24: 46	 2b683ea2-e03d-4fb1-a37c-c2bee0505581	 GET 	 undefined 	 /
+ 2023 09 07	 18 : 24: 46	 bdeb48b4-182e-40d6-bb18-d6d2328f9b2f	 GET 	 undefined 	 /css/style.css
+ 2023 09 07	 18 : 25: 58	 f3c88bbe-3bd6-4456-af1b-7d46c0de6a19	 GET 	 undefined 	 /
+ 2023 09 07	 18 : 26: 56	 379bae1b-3235-47b3-8d36-039f721dfc7f	 GET 	 undefined 	 /
+ 2023 09 07	 18 : 27: 19	 c249e0e8-ad3d-41b6-8235-b11b6dd38150	 GET 	 undefined 	 /
+ 2023 09 07	 18 : 27: 20	 1f910595-2441-4a4d-a55d-d57cbd2d64ee	 GET 	 undefined 	 /
+ 2023 09 07	 18 : 27: 20	 5aa5d074-16df-48d1-907a-219c59545c33	 GET 	 undefined 	 /
+ 2023 09 07	 18 : 27: 20	 d0725177-8332-467e-a66b-cea4a9f2e544	 GET 	 undefined 	 /
+ 2023 09 07	 18 : 27: 24	 a50e42c7-9847-4644-82ec-b69060bceb12	 GET 	 undefined 	 /
+ 2023 09 07	 18 : 27: 50	 9986baba-6d41-4e0c-8a35-89632b6e9b43	 GET 	 undefined 	 /
+ 2023 09 07	 18 : 28: 04	 ed769ca6-6fe7-45cb-96d7-9de8905af894	 GET 	 undefined 	 /
+ 2023 09 07	 18 : 28: 05	 2b686ace-bb5b-4652-b2b1-97d7fa9cf2f3	 GET 	 undefined 	 /
+ 2023 09 07	 18 : 28: 05	 ad894c1e-ac5c-4920-8c26-37d70a795fb1	 GET 	 undefined 	 /
+ 2023 09 07	 18 : 28: 05	 3636311f-59db-4be8-b748-dd84d49152b6	 GET 	 undefined 	 /
+ 2023 09 07	 18 : 28: 05	 67ff4618-587e-4ff3-b863-a19fa7f2cc6c	 GET 	 undefined 	 /
+ 2023 09 07	 18 : 28: 05	 39fe5b75-474a-4603-96b5-69f74875c541	 GET 	 undefined 	 /
+ 2023 09 07	 18 : 28: 06	 5d2ea825-22ed-44d5-a05d-d92351b89de4	 GET 	 undefined 	 /
+ 2023 09 07	 18 : 28: 06	 c947e410-021f-478c-a3de-9b08baa305ac	 GET 	 undefined 	 /
+ 2023 09 07	 18 : 28: 06	 9494d9b7-f8a9-4db9-b661-c2edd37336a2	 GET 	 undefined 	 /
+ 2023 09 07	 18 : 28: 07	 8f5071c0-efa4-407a-b7f8-2cf0010359f9	 GET 	 undefined 	 /
  
