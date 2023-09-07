@@ -36,4 +36,27 @@
  2023 09 07	 18 : 28: 06	 c947e410-021f-478c-a3de-9b08baa305ac	 GET 	 undefined 	 /
  2023 09 07	 18 : 28: 06	 9494d9b7-f8a9-4db9-b661-c2edd37336a2	 GET 	 undefined 	 /
  2023 09 07	 18 : 28: 07	 8f5071c0-efa4-407a-b7f8-2cf0010359f9	 GET 	 undefined 	 /
+ 2023 09 07	 21 : 44: 02	 2bd14b69-deb0-4cc4-9cfa-65925580a73f	 GET 	 undefined 	 /index
+ 2023 09 07	 22 : 01: 48	 89779011-bc8d-46b7-83a7-1973968a327a	 GET 	 undefined 	 /index
+ 2023 09 07	 22 : 01: 49	 f718fc96-7457-4672-a0c9-4b7ef02d3e14	 GET 	 undefined 	 /index
+ 2023 09 07	 22 : 01: 49	 c2e20bee-8804-43e6-98ca-09099a89b90e	 GET 	 undefined 	 /index
+ 2023 09 07	 22 : 01: 49	 396c7197-a472-4b98-8b47-8b95aa0db02c	 GET 	 undefined 	 /index
+ 2023 09 07	 22 : 37: 36	 052cf911-5ca4-4f14-ae99-656e4b6d29a8	 GET 	 undefined 	 /index
+ 2023 09 07	 22 : 37: 37	 259db311-3ddd-4211-afab-cb111ed42034	 GET 	 undefined 	 /index
+ 2023 09 07	 22 : 37: 37	 662901e7-9c6f-4c80-8dfd-6002d2f94322	 GET 	 undefined 	 /index
+ 2023 09 07	 22 : 37: 37	 7cf18664-287a-4d4f-b780-a686b09a0c58	 GET 	 undefined 	 /index
+ 2023 09 07	 22 : 37: 51	 73316fbf-86b6-4956-a33f-26a0240c4fc4	 GET 	 undefined 	 /index
+ 2023 09 07	 22 : 37: 52	 09bd4beb-5e27-4e91-ab88-f57c0c04c44c	 GET 	 undefined 	 /css/style.css
+ 2023 09 07	 22 : 37: 52	 45614f2f-3a80-48da-a8c4-831a107c0021	 GET 	 undefined 	 /favicon.ico
+ 2023 09 07	 23 : 27: 32	 974b187b-0f17-42c4-a6ad-bb35fb11469b	 GET 	 undefined 	 /index
+ 2023 09 07	 23 : 27: 32	 2d2fefe8-b72c-4879-9cb6-290048717256	 Error : Not allowed by cors2023 09 07	 23 : 29: 26	 e14ba73c-80e7-4e40-8717-5cb4120f68e2	 GET 	 undefined 	 /index
+ 2023 09 07	 23 : 29: 26	 6308a89d-5194-43a9-9868-43496a293b6a	 Error : Not allowed by cors2023 09 07	 23 : 29: 26	 dd97bb40-069b-417f-9831-a68729659c28	 GET 	 undefined 	 /index
+ 2023 09 07	 23 : 29: 26	 cf579ddd-9556-47d2-b414-624df7a30a5a	 Error : Not allowed by cors2023 09 07	 23 : 29: 26	 fda36542-c16f-42f4-8210-8f990b7120be	 GET 	 undefined 	 /index
+ 2023 09 07	 23 : 29: 26	 7b0747fd-597c-4d6c-a37c-fbeb6c867a74	 Error : Not allowed by cors2023 09 07	 23 : 31: 06	 972788bb-d92a-43b0-9cee-f90336e36355	 GET 	 undefined 	 /index
+ 2023 09 07	 23 : 31: 06	 cc0f2303-58de-490f-9056-ca5c88496c22	 Error : Not allowed by cors2023 09 07	 23 : 32: 29	 9fbcf801-5d5c-4399-a495-3eb1eccb92e9	 GET 	 undefined 	 /index
+ 2023 09 07	 23 : 32: 47	 aafb1f30-fcfb-4561-9038-a9b4ca26c1b8	 GET 	 undefined 	 /index
+ 2023 09 07	 23 : 32: 47	 201c19c6-f2b2-4016-9ca0-fc3233e3e644	 Error : Not allowed by cors2023 09 07	 23 : 34: 55	 17af1829-5320-4a65-bc2e-4beb245e337c	 GET 	 undefined 	 /indexmj
+ 2023 09 07	 23 : 34: 55	 e341d3b0-f911-4dd1-aa92-808f8c86b0ef	 GET 	 undefined 	 /css/style.css
+ 2023 09 07	 23 : 35: 06	 9f571ea1-70bf-4e43-acdc-f3cc1bb0b7f9	 GET 	 undefined 	 /index
+ 2023 09 07	 23 : 35: 06	 57e3a3d5-18f4-4580-be36-3988d9880f5d	 GET 	 undefined 	 /css/style.css
  

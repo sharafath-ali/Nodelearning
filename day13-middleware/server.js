@@ -2,6 +2,7 @@ const express = require('express');
 const app = express();
 const path = require('path');
 const {logger,logEvents}=require('./middleware/LogEvents')
+const errorHandler =require('./middleware/errorHandler')
 const cors=require('cors')
 
 //middleware is anything between req and res
@@ -13,7 +14,7 @@ app.use(logger)
 const whitelist=['https://www.google.com','http://localhost:3500']
 const corsOptions={
    origin:(origin,callback) =>{
-      if(whitelist.indexOf(origin)!==-1){
+      if(whitelist.indexOf(origin)!==-1 || !origin){
           callback(null,true)
       }else{
          callback(new Error('Not allowed by cors'))
@@ -40,7 +41,7 @@ app.get("/old-page(.html)?", (req, res) => {
 });
 
 
-
+app.use(errorHandler)
 
 
 app.get("/*", (req, res) => {
