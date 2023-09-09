@@ -1,0 +1,108 @@
+2023 09 09	 20 : 54: 28	 5e3ce2c1-8444-4efa-abe4-b7b5476917af	 GET 	 undefined 	 /index
+ 2023 09 09	 20 : 54: 28	 e309e394-29c9-4409-a161-888b32b007e9	 GET 	 undefined 	 /css/style.css
+ 2023 09 09	 20 : 54: 28	 8c946d3d-cc81-44ea-b088-8d49e3f97e28	 GET 	 undefined 	 /favicon.ico
+ 2023 09 09	 21 : 48: 49	 8ac9e2d6-8a67-45ba-b8d9-b122f772c17f	 GET 	 undefined 	 /index
+ 2023 09 09	 21 : 48: 49	 53a6ac81-1730-468e-8f12-bb16937c129b	 GET 	 undefined 	 /css/style.css
+ 2023 09 09	 21 : 48: 51	 da85e9b2-fdc5-4959-9d3e-ba373d609257	 GET 	 undefined 	 /index
+ 2023 09 09	 21 : 48: 51	 131aa9ca-7f58-4eee-9c1f-0cfc28a833d6	 GET 	 undefined 	 /css/style.css
+ 2023 09 09	 21 : 48: 51	 20ef84d4-43c0-4791-b5f6-4ae50401ba9b	 GET 	 undefined 	 /index
+ 2023 09 09	 21 : 48: 51	 359f4a6f-e21a-4f02-aa08-e79d24cb0f05	 GET 	 undefined 	 /css/style.css
+ 2023 09 09	 21 : 48: 51	 e13771f6-095d-48d3-9e39-7a4520346737	 GET 	 undefined 	 /index
+ 2023 09 09	 21 : 48: 51	 8926b57c-5037-4acb-8319-9a911c8a2fda	 GET 	 undefined 	 /css/style.css
+ 2023 09 09	 21 : 48: 51	 f7c3d9ba-8014-4da0-ac96-5e2e7921d83a	 GET 	 undefined 	 /index
+ 2023 09 09	 21 : 48: 51	 c29df023-9c52-4b91-8672-497ea1afb169	 GET 	 undefined 	 /css/style.css
+ 2023 09 09	 21 : 49: 42	 8c79f71c-d314-4e12-b60b-3fba07465235	 GET 	 undefined 	 /index/subdir
+ 2023 09 09	 21 : 49: 42	 8fce0f3f-5134-4d7d-aa7d-47cec91276c1	 GET 	 undefined 	 /index/css/style.css
+ 2023 09 09	 21 : 50: 02	 59e1f62c-ec6f-46ee-92c4-498b9bc60c9c	 GET 	 undefined 	 /index/subdir
+ 2023 09 09	 21 : 50: 02	 893ecec2-a942-4777-9aca-9361b8a30361	 GET 	 undefined 	 /index/css/style.css
+ 2023 09 09	 21 : 50: 03	 3822301e-751d-411b-8245-4d5e1293c1d6	 GET 	 undefined 	 /index/subdir
+ 2023 09 09	 21 : 50: 03	 19bf12c4-d42e-496e-9878-1ed41f996bf5	 GET 	 undefined 	 /index/css/style.css
+ 2023 09 09	 21 : 50: 03	 801a55cd-ae08-4771-9009-37ad5dff3dd0	 GET 	 undefined 	 /index/subdir
+ 2023 09 09	 21 : 50: 03	 99020789-af37-45cb-8892-477825814099	 GET 	 undefined 	 /index/css/style.css
+ 2023 09 09	 21 : 50: 03	 9be38f32-e1fd-4168-9a5e-a939e267490f	 GET 	 undefined 	 /index/subdir
+ 2023 09 09	 21 : 50: 03	 c7c2326b-6d1c-48b5-980d-663b6af8f2ff	 GET 	 undefined 	 /index/css/style.css
+ 2023 09 09	 21 : 50: 43	 b6c061f1-6b43-4d05-837c-cf5d21d86466	 GET 	 undefined 	 /index/subdir
+ 2023 09 09	 21 : 50: 43	 3dc141f5-2378-4c7c-afd9-1243fb1488bb	 GET 	 undefined 	 /index/css/style.css
+ 2023 09 09	 21 : 50: 43	 f1374973-f439-4001-ade3-36b037884daf	 GET 	 undefined 	 /index/subdir
+ 2023 09 09	 21 : 50: 43	 dacccef9-fb9d-4008-92fc-4aecb65f09e2	 GET 	 undefined 	 /index/css/style.css
+ 2023 09 09	 21 : 50: 50	 d8eff250-4edb-4518-843f-1ce2b25c8f15	 GET 	 undefined 	 /index/subdir
+ 2023 09 09	 21 : 50: 50	 21a6fdc0-4212-4206-8996-be4d91c87411	 GET 	 undefined 	 /index/css/style.css
+ 2023 09 09	 21 : 50: 58	 0923d7b1-a500-4afb-bd6a-0a899598df37	 GET 	 undefined 	 /index/subdir/index
+ 2023 09 09	 21 : 50: 58	 6a865512-bd12-41a8-8c08-ef10bfad6ea3	 GET 	 undefined 	 /index/subdir/css/style.css
+ 2023 09 09	 21 : 51: 26	 b60a1a6d-fbf4-41fc-a69f-02517b5e2f52	 GET 	 undefined 	 /index/subdir/test
+ 2023 09 09	 21 : 51: 26	 8a59ac62-5806-4185-8928-c290f8ca4689	 GET 	 undefined 	 /index/subdir/css/style.css
+ 2023 09 09	 21 : 51: 39	 13f5ee45-8b58-4039-8a43-510b457c076a	 GET 	 undefined 	 /subdir
+ 2023 09 09	 21 : 51: 39	 c25c7305-2c55-4e0b-8f60-4e3f0c5fd697	 Error : ENOENT: no such file or directory, stat 'C:\Users\shara\Documents\Nodelearning\day14-Routers\Routes\views\subdir\index.html'2023 09 09	 21 : 52: 25	 dfa5ba7c-483b-492e-bf28-a150ba691f68	 GET 	 undefined 	 /subdir/index
+ 2023 09 09	 21 : 52: 25	 4540e0be-9c40-4367-b2b4-e72a200b0937	 Error : ENOENT: no such file or directory, stat 'C:\Users\shara\Documents\Nodelearning\day14-Routers\Routes\views\subdir\index.html'2023 09 09	 21 : 53: 40	 db763db8-280a-4ee8-a46a-0f931d06685d	 GET 	 undefined 	 /subdir/index
+ 2023 09 09	 21 : 53: 40	 963e532a-97f3-4856-bd0f-92986266fbcf	 Error : ENOENT: no such file or directory, stat 'C:\Users\shara\Documents\Nodelearning\day14-Routers\Routes\views\subdir\index.html'2023 09 09	 21 : 54: 36	 d23952a4-0667-4914-b9ca-3d1ca3331eee	 GET 	 undefined 	 /subdir/index
+ 2023 09 09	 21 : 54: 42	 395e32d9-5de5-4bd9-ac5a-ebabe2eb89cf	 GET 	 undefined 	 /subdir
+ 2023 09 09	 21 : 54: 49	 4e1880e2-7e66-4b8f-b0b7-2d50b70893a9	 GET 	 undefined 	 /subdir/index
+ 2023 09 09	 21 : 54: 54	 b129c5fb-25e1-4667-899c-8ff700ec2eeb	 GET 	 undefined 	 /subdir/test
+ 2023 09 09	 21 : 54: 54	 90e13bc0-c872-45db-b97c-aa4571a3630f	 Error : ENOENT: no such file or directory, stat 'C:\Users\shara\Documents\Nodelearning\day14-Routers\Routes\views\subdir\test.html'2023 09 09	 21 : 55: 17	 b663f23b-9719-4369-8eec-7adb4096cb60	 GET 	 undefined 	 /subdir/test
+ 2023 09 09	 22 : 43: 12	 745cc14a-efa7-440d-92e6-8e4742c2426f	 GET 	 undefined 	 /subdir/test
+ 2023 09 09	 22 : 43: 13	 fef95d2c-8dad-4388-afb5-1cb95a8a1141	 GET 	 undefined 	 /subdir/test
+ 2023 09 09	 22 : 43: 13	 e28cd16f-2a32-4d4d-b765-25722f2d1f36	 GET 	 undefined 	 /subdir/test
+ 2023 09 09	 22 : 43: 13	 82e18e27-54ce-4f29-8c81-53312ec17cf4	 GET 	 undefined 	 /subdir/test
+ 2023 09 09	 22 : 43: 14	 7d31cc9b-2559-4efb-9a75-71e3c97a035d	 GET 	 undefined 	 /subdir/test
+ 2023 09 09	 22 : 43: 15	 374b832e-9470-4eee-9004-609646bbce3a	 GET 	 undefined 	 /subdir/test
+ 2023 09 09	 22 : 43: 15	 c2f62965-4e0f-4f2f-951d-a1088d1d9de8	 GET 	 undefined 	 /subdir/test
+ 2023 09 09	 22 : 43: 15	 d70038db-ac87-44f4-811c-1774dc3620d4	 GET 	 undefined 	 /subdir/test
+ 2023 09 09	 22 : 43: 21	 e1ed7a39-fc50-4ba2-be43-851999549630	 GET 	 undefined 	 /subdir/gg
+ 2023 09 09	 22 : 43: 21	 f38cabeb-7999-4bf9-a626-386221e22724	 GET 	 undefined 	 /subdir/css/style.css
+ 2023 09 09	 22 : 43: 33	 a5db670e-4544-4f43-a2d0-2f37507d9e51	 GET 	 undefined 	 /
+ 2023 09 09	 22 : 43: 33	 6cebcb9e-a08c-4aa8-b789-ade99f3803e5	 GET 	 undefined 	 /css/style.css
+ 2023 09 09	 22 : 46: 25	 6e954096-1e5c-4bbc-8552-b8876f88b8fd	 GET 	 undefined 	 /
+ 2023 09 09	 22 : 46: 25	 797a3db2-b060-45d6-afc2-4d573db190fd	 GET 	 undefined 	 /css/style.css
+ 2023 09 09	 22 : 46: 25	 98a31cc9-7415-4643-be8f-9f952eccd7ee	 GET 	 undefined 	 /
+ 2023 09 09	 22 : 46: 25	 51639035-50ac-45db-aa68-b0dd90b3d82f	 GET 	 undefined 	 /css/style.css
+ 2023 09 09	 22 : 46: 25	 b6c94702-c630-4b40-a6f2-102574d940b3	 GET 	 undefined 	 /
+ 2023 09 09	 22 : 46: 25	 032b6df9-d611-4ad4-aa74-d061340ffbf1	 GET 	 undefined 	 /css/style.css
+ 2023 09 09	 22 : 46: 27	 160d51af-a267-45d7-adf3-40d1183ecb3a	 GET 	 undefined 	 /
+ 2023 09 09	 22 : 46: 27	 3608c8ce-7230-4b3a-8d75-8c2fd2a65ebd	 GET 	 undefined 	 /css/style.css
+ 2023 09 09	 22 : 46: 31	 8633b2e2-b519-4485-a9ba-7a634f8288c8	 GET 	 undefined 	 /subdir/gg
+ 2023 09 09	 22 : 46: 31	 f3f6477f-62fc-4e5b-ade8-102163e7b922	 GET 	 undefined 	 /subdir/css/style.css
+ 2023 09 09	 22 : 46: 31	 15b4934f-ea63-4b1c-9d8e-2e6522981496	 GET 	 undefined 	 /subdir/gg
+ 2023 09 09	 22 : 46: 31	 f2487f6a-a8f1-4f94-a3cf-ea7a770fb8a5	 GET 	 undefined 	 /subdir/css/style.css
+ 2023 09 09	 22 : 46: 31	 bcd4e60c-5228-4fe9-b7e5-6b864aba2858	 GET 	 undefined 	 /subdir/gg
+ 2023 09 09	 22 : 46: 31	 576f36a9-3bf9-4e7a-9a57-52304f1a32f2	 GET 	 undefined 	 /subdir/css/style.css
+ 2023 09 09	 22 : 46: 36	 a15b90dc-79d2-4760-a337-1e787add58d7	 GET 	 undefined 	 /
+ 2023 09 09	 22 : 46: 36	 8dc0c7da-3059-4601-9a4f-bfafe5886a06	 GET 	 undefined 	 /css/style.css
+ 2023 09 09	 22 : 51: 07	 015472d9-cbda-4383-82fd-d073a065b5bf	 GET 	 undefined 	 /
+ 2023 09 09	 22 : 51: 07	 bc7050a9-acbb-40a9-8fbb-683881e48fe3	 GET 	 undefined 	 /css/style.css
+ 2023 09 09	 22 : 51: 21	 26e59363-8e7c-4c90-83dd-0d4e4349518b	 GET 	 undefined 	 /old-page
+ 2023 09 09	 22 : 51: 21	 cfcdf02e-4400-4bb2-b739-9aa8897a2802	 GET 	 undefined 	 /new-page.html
+ 2023 09 09	 22 : 51: 21	 b400d2dd-803a-4e50-9a85-d416f1acebfe	 GET 	 undefined 	 /img/img1.jpg
+ 2023 09 09	 22 : 51: 21	 c5a6f44f-d619-45a3-a0ce-c3935a188b74	 GET 	 undefined 	 /css/style.css
+ 2023 09 09	 22 : 51: 31	 ee1d55e8-ef25-4f34-bc44-bc04bc4a1384	 GET 	 undefined 	 /new-page
+ 2023 09 09	 22 : 51: 31	 c83ca2a9-3d22-404f-a18b-03080bf06672	 GET 	 undefined 	 /css/style.css
+ 2023 09 09	 22 : 51: 31	 18c5d878-9939-44ad-9527-3ab8aaf64412	 GET 	 undefined 	 /img/img1.jpg
+ 2023 09 09	 22 : 51: 50	 6ee18247-5d3a-4494-93d2-06137d72724b	 GET 	 undefined 	 /index
+ 2023 09 09	 22 : 51: 50	 3a0784ca-86dd-4462-9444-94e46a5bd943	 GET 	 undefined 	 /css/style.css
+ 2023 09 09	 22 : 53: 33	 03975ef6-4444-40c3-af71-2d8d0b3d0ed6	 GET 	 undefined 	 /index
+ 2023 09 09	 22 : 53: 33	 3b645942-84c6-4647-8971-a1e11fc4fae9	 GET 	 undefined 	 /css/style.css
+ 2023 09 09	 22 : 53: 33	 46a6e300-ea20-44f3-9100-cd08665086ff	 GET 	 undefined 	 /index
+ 2023 09 09	 22 : 53: 33	 9d1db453-66af-4a4e-a758-27b7e44f555b	 GET 	 undefined 	 /css/style.css
+ 2023 09 09	 22 : 53: 33	 de688dbf-6c6d-4065-82c5-3e803231d4ce	 GET 	 undefined 	 /index
+ 2023 09 09	 22 : 53: 33	 d8f0172b-94b0-4907-ac6b-7a003fdb3cbf	 GET 	 undefined 	 /css/style.css
+ 2023 09 09	 23 : 11: 58	 22680873-fb4e-4c80-adcd-cf8abae9b17f	 GET 	 undefined 	 /employees
+ 2023 09 09	 23 : 13: 06	 b1a4b089-0c34-40e3-9041-48de879fb413	 GET 	 undefined 	 /employees
+ 2023 09 09	 23 : 13: 14	 98d0184b-7897-4be2-9d53-331b78c98c9e	 GET 	 undefined 	 /
+ 2023 09 09	 23 : 14: 04	 ded81b48-892e-4e8b-8cc2-dd6d3df76741	 GET 	 undefined 	 /employees/1
+ 2023 09 09	 23 : 14: 30	 2e49ce1f-0b4e-4e56-9583-dcee2c68fcbb	 POST 	 undefined 	 /employees/1
+ 2023 09 09	 23 : 14: 35	 2ef1c0fc-da1b-49b9-a098-df7e68123d10	 POST 	 undefined 	 /employees
+ 2023 09 09	 23 : 16: 46	 84730adb-3d4f-4339-8d58-846d3a246b54	 POST 	 undefined 	 /employees
+ 2023 09 09	 23 : 16: 46	 d755231f-7c89-4285-b019-91141ddefec3	 SyntaxError : Unexpected token ' in JSON at position 12023 09 09	 23 : 17: 03	 86d7e5b5-2bbb-4c64-9b1d-0174c4276d1d	 POST 	 undefined 	 /employees
+ 2023 09 09	 23 : 17: 03	 c1b919f2-5e38-4bb3-ba15-58cc1adfeee8	 SyntaxError : Unexpected token ' in JSON at position 12023 09 09	 23 : 17: 04	 45a9eda6-b194-42d6-8aa9-4ae323fa777b	 POST 	 undefined 	 /employees
+ 2023 09 09	 23 : 17: 04	 25ee0087-e31b-406e-8f40-ae54b3ec2b86	 SyntaxError : Unexpected token ' in JSON at position 12023 09 09	 23 : 17: 04	 0f5abce7-4b2b-4f77-b3e2-665e40cceccd	 POST 	 undefined 	 /employees
+ 2023 09 09	 23 : 17: 04	 f18d6efc-c6a5-45e3-b293-c62fa54c4bcd	 SyntaxError : Unexpected token ' in JSON at position 12023 09 09	 23 : 17: 59	 823f2ad5-df48-4d11-8213-d71af1a77b21	 POST 	 undefined 	 /employees
+ 2023 09 09	 23 : 19: 09	 5f853bb7-1994-4dee-bd3c-592de91588c4	 POST 	 undefined 	 /employees/1
+ 2023 09 09	 23 : 19: 10	 bb0fafd9-6018-4703-8eff-0c55817e79f9	 POST 	 undefined 	 /employees/1
+ 2023 09 09	 23 : 19: 10	 8bd92412-b70f-4c73-9951-28ea13961016	 POST 	 undefined 	 /employees/1
+ 2023 09 09	 23 : 19: 14	 c0105e81-ee7b-4748-9118-65f4248d82f7	 GET 	 undefined 	 /employees/1
+ 2023 09 10	 00 : 24: 52	 c30bc0c6-60de-4ec4-b83f-6627a97c6e15	 POST 	 undefined 	 /employees
+ 2023 09 10	 00 : 25: 23	 5a6a6899-10cc-42fd-80f2-f265d34473ec	 GET 	 undefined 	 /employees/1
+ 2023 09 10	 00 : 25: 37	 5fcb7476-d94a-4c28-888c-4dc910d340bd	 GET 	 undefined 	 /employees/1
+ 2023 09 10	 00 : 25: 46	 6d75e9cc-b107-4107-9b0a-39c39b0699e5	 GET 	 undefined 	 /
+ 2023 09 10	 00 : 25: 50	 bb29de8c-e6cf-46f2-8a98-310a08d38ce8	 GET 	 undefined 	 /employees
+ 2023 09 10	 00 : 26: 05	 8577ebe4-aed3-4219-94dc-4e2561aeb9d5	 GET 	 undefined 	 /index
+ 
